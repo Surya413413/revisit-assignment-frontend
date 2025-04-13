@@ -96,7 +96,7 @@ The goal of this assignment is to build a **React-based Admin Panel** that allow
 
 ###  APIs
 
-- Backend URL: `https://your-backend-url.onrender.com` *(replace with actual)*
+- Backend URL: https://revisit-assignment-backend-myl6.onrender.com
 - API Endpoints used:
   - `POST /users/register`
   - `POST /users/login`
